@@ -1,3 +1,5 @@
+#Amazon Mini Application
+
 import os
 import random
 newretail_names = []
@@ -6,7 +8,7 @@ products = [{'pid':1,"sellerid":1,"price":3000,"decs":"iphone","disc":10,'stock'
 {'pid':2,"sellerid":2,"price":3500,"decs":"tv","disc":30,'stock':100},
 {'pid':2,"sellerid":3,"price":4000,"decs":"tv","disc":15,'stock':100}]
 sales_id = {1:'atharsh',2:'vasanth',3:'yadav'}
-retailer_users = {'atharsh':'12345','vasanth':'67890','yadav':'12121'}
+retailer_users = {'atharsh':'1234','vasanth':'1234','yadav':'1234'}
 users = {'atharsh':1234}
 add_cart = list()
 history = list()
