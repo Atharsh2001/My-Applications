@@ -1,3 +1,5 @@
+# Expense Splitwise Application
+
 import os
 import random as ra
 users = [{'name':'atharsh','pass':'1234','id':'I1'}]
